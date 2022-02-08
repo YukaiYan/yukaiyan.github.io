@@ -10,7 +10,6 @@
     be happy to meet you! :)
     <br />
     If you have any questions, or if you just want to say hi, please feel free to email me.
-    <!-- <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a> -->
     <br />
     <br />
     <a href="https://yukaiyan.com">About Me</a>
@@ -28,9 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a cat person, though I don't have any pets, yet.
 
-<!--
-**hashirshoaeb/hashirshoaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Special thanks to  <a href="https://github.com/hashirshoaeb"> Hashir Shoaib</a> for the template of this website.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
